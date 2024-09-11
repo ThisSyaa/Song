@@ -1,7 +1,7 @@
 ===========================================||Syaaxi||==================================
 <br>
 <br>
-<p align="center" color="Green">Welcome, To My Github</p>
+<p align="center" style=color:green;>Welcome, To My Github</p>
 <br>
 <br>
 ============================================||Faxi||===================================
